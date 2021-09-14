@@ -1,10 +1,6 @@
 #####################################
 # Breadth First Search / Flood fill Maze solver with shortest path finder
-# Data Structure Term Project
 # ANKIT RAI 
-# ROLL NUMBER: 20223023
-# MCA 2nd SEMESTER
-#SUBMITTING TO: Dr. SHYAM SUNDAR
 #####################################
 
 import turtle                    # import turtle library
